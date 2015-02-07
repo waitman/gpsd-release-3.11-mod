@@ -19,7 +19,7 @@ gpsmon
 
 There is no configure script.
 
-To run, execute the following:
+To build, execute the following:
 
 # make
 
