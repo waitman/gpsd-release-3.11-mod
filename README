@@ -4,14 +4,6 @@ To build without scons on FreeBSD 11.0-CURRENT
 
 limited release: builds the following programs from the gpsd-release-3.11 source distribution
 
-gegps
-gpscat
-gpsfake
-gpsinit
-gpsprof
-regress-driver
-xgps
-xgpsspeed
 libgps.so.21.0.0
 libgpsd.so.22.0.0
 gpsd
